@@ -1,0 +1,11 @@
+[
+    {"id": 1,"name": "RH975 - NIGHTSTER™","description": "Color REDLINE RED","image":"https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20073171-10083611-124344911.jpg","price": 17.968,"stock": 1,"category": "Sport"},
+    {"id": 2,"name": "RH1250S - SPORTSTER® S","description": "Color GRAY HAZE","image": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20072991-10072681-123971421.jpg","price": 16.399,"stock": 1,"category": "Sport"},
+    {"id": 3,"name": "RH1250S - SPORTSTER® S","description": "Color BLACK","image": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20072991-0-123971461.jpg","price": 16.399,"stock": 1,"category": "Sport"},
+    {"id": 4,"name": "FLHX - STREET GLIDE®","description": "Color REDLINE RED","image": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20079021-10071971-123972851.jpg","price": 21.999,"stock": 1,"category": "Touring"},
+    {"id": 5,"name": "FLHTK - ULTRA LIMITED","description": "Color GRAY HAZE","image": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20078131-0-124063501.jpg","price": 31.794,"stock": 1,"category": "Touring"},
+    {"id": 6,"name": "FLHTK - ULTRA LIMITED","description": "Color BLACK","image": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20078131-10071941-124063481.jpg","price": 31.794,"stock": 1,"category": "Touring"},
+    {"id": 7,"name": "STREET BOB® 114","description": "Color REDLINE RED","image": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20074531-0-123932041.jpg","price": 24.574,"stock": 1,"category": "Cruiser"},
+    {"id": 8,"name": "HERITAGE CLASSIC","description": "Color GREEN W/ PINSTRIPE","image": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20073221-0-123929901.jpg","price": 22.099,"stock": 1,"category": "Cruiser"},
+    {"id": 9,"name": "HERITAGE CLASSIC","description": "Color BLACK W/ PINSTRIPE","image": "https://cdn.dealerspike.com/imglib/v1/800x600/imglib/trimsdb/20073221-10081451-124207111.jpg","price": 22.099,"stock": 1,"category": "Cruiser"}
+    ]
